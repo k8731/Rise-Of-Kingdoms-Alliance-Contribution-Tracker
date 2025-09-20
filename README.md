@@ -69,8 +69,9 @@ Follow these steps to use the OCR Tracker:
 
 2. **Load Images**
    - Prepare Image Folder: Take screenshot of alliance stats.
+
         <img src="test_data/screenshot1.png" width="200">
-    <img src="test_data/screenshot2.png" width="200">
+        <img src="test_data/screenshot2.png" width="200">
 
    - Click **Choose Image Folder** to select the folder containing your test images.
 
