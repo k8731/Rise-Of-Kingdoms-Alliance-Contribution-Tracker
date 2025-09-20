@@ -1,0 +1,22 @@
+# === Python build/cache ===
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+
+# === IDE/project settings ===
+.vscode/
+.idea/
+*.iml
+
+# === My data / output ===
+my_data/
+results/
+output/
+*.png
+*.jpg
+*.json
+
+# === Logs ===
+*.log
