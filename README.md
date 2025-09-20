@@ -61,6 +61,7 @@ The program will automatically read this environment variable. If not set, it wi
 
 ## How to Use
 <img src="result_image/main.png" width="800">
+<img src="result_image/after_match.png" width="800">
 Follow these steps to use the OCR Tracker:
 
 
@@ -70,8 +71,8 @@ Follow these steps to use the OCR Tracker:
 2. **Load Images**
    - Prepare Image Folder: Take screenshot of alliance stats.
 
-        <img src="test_data/screenshot1.png" width="300">
-        <img src="test_data/screenshot2.png" width="300">
+        <img src="test_data/screenshot1.png" width="400">
+        <img src="test_data/screenshot2.png" width="400">
 
    - Click **Choose Image Folder** to select the folder containing your test images.
 
