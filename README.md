@@ -69,8 +69,9 @@ Follow these steps to use the OCR Tracker:
 
 2. **Load Images**
    - Prepare Image Folder: Take screenshot of alliance stats.
-   <img src="test_data/screenshot1.png" width="200">
-   <img src="test_data/screenshot2.png" width="200">
+    <img src="test_data/screenshot1.png" width="200">
+    <img src="test_data/screenshot2.png" width="200">
+
    - Click **Choose Image Folder** to select the folder containing your test images.
 
 3. **Configure Required Options**
@@ -99,16 +100,16 @@ Follow these steps to use the OCR Tracker:
 
 7. **Show Result**
    - Click **Show Matched Result** or **Show UnMatched Result** to display match results.
-   <img src="result_image/after_match3.png" width="400">
+    <img src="result_image/after_match3.png" width="400">
 
 8. **Edit data (Optional)**
    - Double click the **Match Name Column** or **Number Column** to edit values.
-   <img src="result_image/edit_data.png" width="400">
+    <img src="result_image/edit_data.png" width="400">
 
 9. **Add New Row (Optional)**
    - Use the **Add New Blank Row** button to manually insert extra entries in the table if needed.
-   <img src="result_image/add_new_blank.png" width="400">
+    <img src="result_image/add_new_blank.png" width="400">
 
 10. **Save Results**
     - Click **Save Excel File** to export the data.
-    <img src="result_image/excel_result.png" width="400">
+        <img src="result_image/excel_result.png" width="400">
